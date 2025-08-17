@@ -4,7 +4,7 @@
 
 ## terraform plan
 
-![Terraform plan](terrraform-plan.png)
+![Terraform plan](terraform-plan.png)
 
 ## terraform apply
 
